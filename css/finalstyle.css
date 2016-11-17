@@ -1,0 +1,56 @@
+
+header {
+    padding: 5px !important;
+    background-color: rgba(156, 109, 28, 0.68) !important;
+
+}
+#imaginary_container{
+    margin-top:-10%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.navbar-inverse {
+    background-color: #2b394c !important;
+    border-color: #150c0c !important;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+    color:#b2b2ea !important;
+}
+.navbar-inverse .navbar-nav>li>a:active {
+    color:#27274f !important;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #628894 !important;
+}
+
+footer{
+	background-color:#628894 !important;
+}	
+	
+	
+.nav{
+	color:red !important;
+	
+}	
+
+
+
+.nav li a:hover{
+	
+	color:black !important;
+}
+
+.active{
+
+}

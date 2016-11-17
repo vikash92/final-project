@@ -1,0 +1,48 @@
+header {
+background-color:#1f1f1f;
+}
+header .header {
+overflow:hidden;
+position:relative;
+width:960px;
+height:100px;
+margin:0 auto;
+}
+header .search {
+float:middle;
+margin-top:10px;
+width:200px;
+}
+header .search input[type=text] {
+background-color:#443e30;
+border:1px solid #2F2C29;
+color:#FFF;
+font-size:1em;
+height:20px;
+margin-right:20px;
+width:350px;
+padding:1px 0 0 3px;
+}
+header .search input[type=submit] {
+background-image:url(../images/search.gif);
+height:21px;
+width:60px;
+font-size:0.9em;
+border-width:0;
+}
+header .social_icons {
+float:right;
+margin-right:0px;
+margin-top:5px;
+}
+.logo {
+position:relative;
+width:960px;
+height:225px;
+margin:0 auto;
+}
+.logo img {
+margin:20px 10px;
+}
+
+

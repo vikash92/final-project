@@ -1,0 +1,6 @@
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-6-xs-12">
+<a class="thumbnail" href="#"
+<img class="img-responsive" src="" alt="images" width"" height="">
+</a>
+</div>
